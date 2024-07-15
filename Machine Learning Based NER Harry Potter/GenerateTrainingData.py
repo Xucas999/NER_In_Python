@@ -23,7 +23,6 @@ def test_model(model, text):
 
 
 
-
 #patterns = create_training_data("characters.json", "PERSON")
 #generate_rules(patterns)
 
